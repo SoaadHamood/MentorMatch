@@ -17,7 +17,7 @@ This project demonstrates techniques from:
 # System Architecture
 
 <p align="center">
-  <img src="images/pipeline.png" width="900">
+  <img src="images/pipeline.jpeg" width="900">
 </p>
 
 The system integrates multiple data sources and NLP techniques to identify the best mentor matches.
@@ -77,7 +77,7 @@ Mentors with the highest similarity scores are returned to the user.
 # Example Interface and Results
 
 <p align="center">
-  <img src="images/interface_example.png" width="900">
+  <img src="images/interface_example.jpeg" width="900">
 </p>
 
 The interface allows users to describe the type of help they need (for example, *Python mentorship*).  
